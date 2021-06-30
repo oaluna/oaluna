@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: oaluna/oaluna@main
         with:
-          feed_list: "https://medium.com/feed/@main"
+          feed_list: "https://medium.com/feed/@oaluna"
