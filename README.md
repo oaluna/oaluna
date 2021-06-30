@@ -21,5 +21,10 @@ I am a fullstack software engineer from San Francisco, CA.
 <br>
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [On APIs and REST Architecture (Part 1)](https://medium.com/codex/on-apis-and-rest-architecture-part-1-f64449a2f177?source=rss-be00f566a88f------2)
+- [Understanding The Node.js Events Module](https://medium.com/devtechtoday/understanding-the-node-js-events-module-67b9820e57ea?source=rss-be00f566a88f------2)
+- [JavaScript Data Structures and Algorithms (Graphs, part 3)](https://medium.com/codex/javascript-data-structures-and-algorithms-graphs-part-3-507c91eff33e?source=rss-be00f566a88f------2)
+- [JavaScript Data Structures And Algorithms (Graphs, Part 2)](https://medium.com/codex/javascript-data-structures-and-algorithms-graphs-part-2-533534289b23?source=rss-be00f566a88f------2)
+- [JavaScript Data Structures and Algorithms (Graphs)](https://medium.com/codex/javascript-data-structures-and-algorithms-graphs-67cc1d9bfcc7?source=rss-be00f566a88f------2)
 <!-- BLOG-POST-LIST:END -->
 
